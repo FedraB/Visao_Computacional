@@ -15,9 +15,10 @@ Make sure you have the following installed:
 - Python 3.11.9
 - NumPy 1.26.4
 - OpenCV 4.10.0.84
+- Scipy 1.10.1
 - Matplotlib 3.9.1
 
 You can install the dependencies using `pip`:
 
 ```bash
-pip install numpy==1.26.4 opencv-python-headless==4.10.0.84 matplotlib==3.9.1
+pip install numpy==1.26.4 opencv-python-headless==4.10.0.84 scipy==1.10.1 matplotlib==3.9.1
